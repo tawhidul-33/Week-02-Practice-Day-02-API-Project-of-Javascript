@@ -16,7 +16,7 @@ A simple food search application using **HTML**, **CSS**, and **JavaScript**. It
 
 ## 🚀 Live Preview
 
-🔗 Live Site- https://tawhidul-33.github.io/Week-02-Practice-Day-02-API-Project-of-Javascript/ 
+🔗 Live Site-  https://tawhidul-33.github.io/Week-02-Practice-Day-02-API-Project-of-Javascript/
 
 ---
 
